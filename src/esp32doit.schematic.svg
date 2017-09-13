@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18.059401mm"
+   height="40.919403mm"
+   viewBox="0 0 63.990002 144.99001"
+   id="svg9321"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="esp32doit.schematic.svg">
+  <defs
+     id="defs9323" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8.1109307"
+     inkscape:cx="32"
+     inkscape:cy="72.506339"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="3200"
+     inkscape:window-height="1752"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata9326">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(9.0000003,-907.37217)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.03227353;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9329"
+       width="44.967728"
+       height="143.95773"
+       x="0.51613677"
+       y="907.88831" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin"
+       y1="1042.9875"
+       y2="1042.9875"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-6"
+       y1="925.38751"
+       y2="925.38751"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-9"
+       y1="933.78748"
+       y2="933.78748"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-2"
+       y1="942.1875"
+       y2="942.1875"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-1"
+       y1="950.58752"
+       y2="950.58752"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-7"
+       y1="958.98755"
+       y2="958.98755"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-79"
+       y1="967.38751"
+       y2="967.38751"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-76"
+       y1="975.78754"
+       y2="975.78754"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-27"
+       y1="984.1875"
+       y2="984.1875"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-15"
+       y1="992.58752"
+       y2="992.58752"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-8"
+       y1="1000.9875"
+       y2="1000.9875"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-84"
+       y1="1009.3875"
+       y2="1009.3875"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-5"
+       y1="1017.7875"
+       y2="1017.7875"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-65"
+       y1="1026.1875"
+       y2="1026.1875"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-68"
+       y1="1034.5875"
+       y2="1034.5875"
+       x1="-8.6200142"
+       style="fill:none;stroke:#555555;stroke-width:0.74930024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="-0.37729117" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-4"
+       y1="1042.9875"
+       y2="1042.9875"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-6-3"
+       y1="925.38751"
+       y2="925.38751"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-9-8"
+       y1="933.78741"
+       y2="933.78741"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-2-7"
+       y1="942.18744"
+       y2="942.18744"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-1-5"
+       y1="950.58746"
+       y2="950.58746"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-7-2"
+       y1="958.98749"
+       y2="958.98749"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-79-4"
+       y1="967.38739"
+       y2="967.38739"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-76-5"
+       y1="975.78741"
+       y2="975.78741"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-27-0"
+       y1="984.1875"
+       y2="984.1875"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-15-5"
+       y1="992.58752"
+       y2="992.58752"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-8-7"
+       y1="1000.9875"
+       y2="1000.9875"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-84-3"
+       y1="1009.3876"
+       y2="1009.3876"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-5-2"
+       y1="1017.7875"
+       y2="1017.7875"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-65-7"
+       y1="1026.1875"
+       y2="1026.1875"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <line
+       gorn="0.3.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.50"
+       id="connector85pin-0-68-2"
+       y1="1034.5875"
+       y2="1034.5875"
+       x1="46.369926"
+       style="fill:none;stroke:#555555;stroke-width:0.74918354;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       x2="54.610073" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="935.48828"
+       id="text12711"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713"
+         x="2.5707619"
+         y="935.48828">VP</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="927.07312"
+       id="text12711-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-3"
+         x="2.5707619"
+         y="927.07312">EN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="943.9035"
+       id="text12711-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-9"
+         x="2.5707619"
+         y="943.9035">VN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="952.31866"
+       id="text12711-41"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-95"
+         x="2.5707619"
+         y="952.31866">D34</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="960.73383"
+       id="text12711-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-4"
+         x="2.5707619"
+         y="960.73383">D35</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="969.14905"
+       id="text12711-12"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-2"
+         x="2.5707619"
+         y="969.14905">D32</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="977.56421"
+       id="text12711-16"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-20"
+         x="2.5707619"
+         y="977.56421">D33</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="985.97937"
+       id="text12711-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-29"
+         x="2.5707619"
+         y="985.97937">D25</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="994.39453"
+       id="text12711-74"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-35"
+         x="2.5707619"
+         y="994.39453">D26</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="1002.8098"
+       id="text12711-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-1"
+         x="2.5707619"
+         y="1002.8098">D27</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="1011.2249"
+       id="text12711-40"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-31"
+         x="2.5707619"
+         y="1011.2249">D14</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="1019.6401"
+       id="text12711-27"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-7"
+         x="2.5707619"
+         y="1019.6401">D12</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="1028.0553"
+       id="text12711-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-8"
+         x="2.5707619"
+         y="1028.0553">D13</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="1036.4705"
+       id="text12711-10"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-76"
+         x="2.5707619"
+         y="1036.4705">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2.5707619"
+       y="1044.8856"
+       id="text12711-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-10"
+         x="2.5707619"
+         y="1044.8856">VIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.219788"
+       y="935.08191"
+       id="text12711-25"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-19"
+         x="34.219788"
+         y="935.08191">D22</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.219788"
+       y="926.66675"
+       id="text12711-1-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-3-1"
+         x="34.219788"
+         y="926.66675">D23</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.190491"
+       y="943.49707"
+       id="text12711-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-9-1"
+         x="34.190491"
+         y="943.49707">TX0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="33.94635"
+       y="951.91229"
+       id="text12711-41-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-95-0"
+         x="33.94635"
+         y="951.91229">RX0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.786194"
+       y="960.32751"
+       id="text12711-7-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-4-8"
+         x="34.786194"
+         y="960.32751">D21</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.156311"
+       y="968.74261"
+       id="text12711-12-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-2-4"
+         x="34.156311"
+         y="968.74261">D19</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.214905"
+       y="977.15778"
+       id="text12711-16-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-20-2"
+         x="34.214905"
+         y="977.15778">D18</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="36.981018"
+       y="985.57294"
+       id="text12711-2-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-29-4"
+         x="36.981018"
+         y="985.57294">D5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.229553"
+       y="993.9881"
+       id="text12711-74-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-35-9"
+         x="34.229553"
+         y="993.9881">TX2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="33.985413"
+       y="1002.4034"
+       id="text12711-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-1-2"
+         x="33.985413"
+         y="1002.4034">RX2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="36.800354"
+       y="1010.8185"
+       id="text12711-40-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-31-9"
+         x="36.800354"
+         y="1010.8185">D4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="36.924866"
+       y="1019.2337"
+       id="text12711-27-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-7-0"
+         x="36.924866"
+         y="1019.2337">D2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.27594"
+       y="1027.6489"
+       id="text12711-9-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-8-4"
+         x="34.27594"
+         y="1027.6489">D15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="32.396057"
+       y="1036.0641"
+       id="text12711-10-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-76-9"
+         x="32.396057"
+         y="1036.0641">GND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="34.366272"
+       y="1044.4792"
+       id="text12711-0-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12713-10-5"
+         x="34.366272"
+         y="1044.4792">3V3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5px;line-height:125%;font-family:'Abyssinica SIL';-inkscape-font-specification:'Abyssinica SIL, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1012.5896"
+       y="24.733912"
+       id="text12939"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan12941"
+         x="-1012.5896"
+         y="24.733912">ESP32DOIT DEV KIT V1</tspan></text>
+  </g>
+</svg>
